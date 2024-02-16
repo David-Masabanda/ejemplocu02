@@ -1,0 +1,3 @@
+C:/Users/fing.labcom/CLionProjects/ejemplocu02/cmake-build-debug/CMakeFiles/ejemplocu02.dir
+C:/Users/fing.labcom/CLionProjects/ejemplocu02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fing.labcom/CLionProjects/ejemplocu02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

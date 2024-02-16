@@ -1,0 +1,7 @@
+# ninja log v5
+2	633	7297950844055506	CMakeFiles/ejemplocu02.dir/main.cpp.obj	764a13a2d1a27735
+1	2440	7297951269779121	CMakeFiles/ejemplocu02.dir/kernel.cu.obj	95457702b49f2ae1
+2441	3835	7297951283747066	CMakeFiles/ejemplocu02.dir/cmake_device_link.obj	37b9cde06b02f27
+1	341	7297951618022217	CMakeFiles/ejemplocu02.dir/main.cpp.obj	764a13a2d1a27735
+341	1623	7297951630831693	CMakeFiles/ejemplocu02.dir/cmake_device_link.obj	37b9cde06b02f27
+1624	1958	7297951634041051	ejemplocu02.exe	e439a73f47226cff
